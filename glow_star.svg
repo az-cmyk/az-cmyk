@@ -1,0 +1,16 @@
+<svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="starGrad" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#FF00D4"/>
+      <stop offset="100%" stop-color="#00FFE5"/>
+    </linearGradient>
+
+    <filter id="starGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feBlend in="SourceGraphic" in2="blur" mode="screen"/>
+    </filter>
+  </defs>
+
+  <path d="M14 0 L17 11 L28 14 L17 17 L14 28 L11 17 L0 14 L11 11 Z"
+        fill="url(#starGrad)" filter="url(#starGlow)"/>
+</svg>
