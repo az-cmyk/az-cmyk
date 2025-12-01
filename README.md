@@ -1,31 +1,79 @@
-<!-- ░█▀█░█░█░░░█▀▀░█▀▀░█▀▀░█▄█░█▄█░█░█
-     ░█▀▀░░█░░░░▀▀█░█▀▀░█░░░█░█░█░█░░█░
-     ░▀░░░░▀░░░░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀░▀░░▀░ -->
+<!-- █████╗ ████████╗     ██████╗███╗   ███╗██╗   ██╗██╗  ██╗
+     ██╔══██╗╚══██╔══╝    ██╔════╝████╗ ████║██║   ██║╚██╗██╔╝
+     ███████║   ██║       ██║     ██╔████╔██║██║   ██║ ╚███╔╝ 
+     ██╔══██║   ██║       ██║     ██║╚██╔╝██║██║   ██║ ██╔██╗ 
+     ██║  ██║   ██║       ╚██████╗██║ ╚═╝ ██║╚██████╔╝██╔╝ ██╗
+     ╚═╝  ╚═╝   ╚═╝        ╚═════╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ 
+
+     👁️  Code. Design. Intelligence. Future. 
+-->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/banner.svg" width="100%" alt="Futuristic Banner" />
 
-  <h1>🚀 az-cmyk</h1>
-  <h3><em>Digital Alchemist • Machine Intelligence Explorer • Code Architect</em></h3>
+  <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/banner.svg" width="100%" alt="Futuristic Banner">
+
+  <h1>🚀 <strong>AZ-CMYK</strong></h1>
+  <h3><em>Digital Alchemist • Machine Learning Architect • Cyber-Aesthetic Engineer</em></h3>
 
   <p>
-    Crafting code that breathes, learns, adapts —  
-    shaping the architecture of tomorrow’s digital worlds.
+    I create systems where <strong>logic meets artistry</strong>,  
+    where <strong>data becomes intuition</strong>,  
+    and where <strong>technology feels alive</strong>.
   </p>
+
+  <p>
+    Every line of code is crafted with intention —  
+    not just to function, but to <strong>resonate</strong>.
+  </p>
+
 </div>
 
 ---
 
-## ✨ **About Me**
-I am a multidisciplinary developer who merges design, logic, and machine intelligence to create immersive and efficient digital systems.  
-My work blends **creativity**, **mathematics**, and **technology** — always evolving, always learning.
+# 🌠 **About Me — The Expanded Version**
+I am a multi-dimensional software creator who merges science, creativity, and futuristic thinking.  
+My passion lies in constructing digital frameworks that feel expressive, aesthetic, and deeply engineered.
 
-> *“The future isn't waited for — it's engineered.”*
+I enjoy crafting:
+
+✨ Intelligent systems  
+✨ Adaptive interfaces  
+✨ Machine learning pipelines  
+✨ Beautiful and functional user experiences  
+✨ Clean, scalable, elegant architectures  
+
+I strive to be the kind of developer who makes codebases feel like **handcrafted machines**—precise, intuitive, and alive.
+
+> **“I don’t follow the future — I help build it.”**
 
 ---
 
-## 🧠 **Tech Stack & Skills**
+# 🧠 **Core Capabilities & Expanded Tech Stack**
+
+## 🎨 **Design & Frontend Engineering**
+- Dart / Flutter (UI Systems, Animation, Component Architecture)  
+- Adaptive Layout Systems  
+- Interactive UI/UX Design Principles  
+- Theme Architectures & Widget Engineering  
+- Visual Prototyping & Wireframing  
+
+## 🧬 **Machine Learning & Data Intelligence**
+- Data Preprocessing Pipelines  
+- Neural Network Architecture Design  
+- Classification & Feature Extraction  
+- Dataset Engineering & Augmentation  
+- Accuracy Optimization & Validation Techniques  
+- Model Deployment Foundations  
+
+## ⚙️ **Software Engineering & Architecture**
+- Algorithmic Thinking  
+- Large-Scale Code Organization  
+- MVC / MVVM design patterns  
+- Modular Runtime Systems  
+- Clean Code + Documentation First Methodology  
+- API Design & Integration  
+
+## 🛠️ **Tools & Ecosystem**
 ```text
-Python • Machine Learning • Data Science  
-Dart / Flutter • UI / UX Engineering  
-REST APIs • Git / GitHub • Algo & Data Structures  
+Python • Dart • Flutter • NumPy • Pandas • Matplotlib • TensorFlow (intro)  
+Git • GitHub • VS Code • Jupyter • Command Line Automation  
