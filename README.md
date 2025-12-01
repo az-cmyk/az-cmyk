@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/banner.svg" width="100%" />
 
 <!-- Animated Neon Accent -->
-<img width="280" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/neon_line.svg">
+<img width="280" src="https://github.com/az-cmyk/az-cmyk/blob/main/neon_line.svg">
 
 <p align="center">
   <i>Where <strong>logic meets artistry</strong> —  
@@ -23,7 +23,7 @@
 </div>
 
 <!-- Gradient Section Divider -->
-<img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/pulse_divider.svg" width="100%" />
+<img src="https://github.com/az-cmyk/az-cmyk/blob/main/pulse_divider.svg" width="100%" />
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## <img height="22" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/glow_star.svg">  
 # 🌠 **About Me — Cyber-Luxury Edition**  
-<img height="22" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/glow_star.svg">
+<img height="22" src="https://github.com/az-cmyk/az-cmyk/blob/main/glow_star.svg">
 
 </div>
 
@@ -53,7 +53,7 @@ I strive to build codebases that feel like **handcrafted machines** — precise,
 ---
 
 <!-- Neon Divider -->
-<img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/neon_divider.svg" width="100%" />
+<img src="https://github.com/az-cmyk/az-cmyk/blob/main/neon_divider.svg" width="100%" />
 
 <div align="center">
 
@@ -137,4 +137,4 @@ I strive to build codebases that feel like **handcrafted machines** — precise,
 </div>
 
 <!-- Futuristic Signature Divider -->
-<img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/pulse_divider.svg" width="100%" />
+<img src="https://github.com/az-cmyk/az-cmyk/blob/main/neon_divider.svg" width="100%" />
