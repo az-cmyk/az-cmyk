@@ -1,14 +1,20 @@
 <!-- ──────────────────────────────────────────────────────────────── -->
-<!--                        AZ-CMYK • CYBER LUX                      -->
-<!--             PREMIUM MAGENTA × TEAL NEON EDITION                -->
+<!--                    A Z — C M Y K • CYBER LUX v2                 -->
+<!--          FULL SIGNATURE EDITION • MAGENTA × TEAL NEON           -->
 <!-- ──────────────────────────────────────────────────────────────── -->
+
+<!-- ✦ Animated Circuit Frame (outer border) -->
+<img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/circuit_frame.svg" width="100%" />
 
 <div align="center">
 
+<!-- ✦ Neon Corner Brackets -->
+<img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/neon_corners_top.svg" width="100%" />
+
 <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/banner.svg" width="100%" />
 
-<!-- Animated Neon Accent -->
-<img width="300" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/neon_line.svg" />
+<!-- Particle Pulse Accent -->
+<img width="320" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/particle_pulse.svg" />
 
 <p align="center" style="margin-top: 10px;">
   <i>Where <strong>logic meets artistry</strong> —<br>
@@ -21,14 +27,16 @@
   not just to function, but to <strong>resonate</strong>.
 </p>
 
+<!-- Bottom Corners -->
+<img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/neon_corners_bottom.svg" width="100%" />
+
 </div>
 
-<!-- Gradient Section Divider -->
+<!-- Section Divider -->
 <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/pulse_divider.svg" width="100%" />
 
 ---
 
-<!-- Holo Header -->
 <div align="center">
 
 # 🌠 **About Me**
@@ -40,18 +48,24 @@
 
 <br>
 
+<!-- ✦ Glowing Tech-Spec Panel -->
 <div align="center">
 <div style="
   max-width: 780px;
-  padding: 24px 28px;
-  border-radius: 12px;
+  padding: 28px 30px;
+  border-radius: 14px;
   border: 1px solid rgba(255,0,212,0.35);
-  box-shadow: 
-    0 0 22px rgba(0,255,229,0.18),
-    0 0 40px rgba(255,0,212,0.14),
-    inset 0 0 18px rgba(255,0,212,0.15);
+  box-shadow:
+    0 0 26px rgba(0,255,229,0.22),
+    0 0 44px rgba(255,0,212,0.14),
+    inset 0 0 22px rgba(255,0,212,0.15);
   backdrop-filter: blur(4px);
 ">
+
+<!-- CYBER ID BADGE -->
+<div align="center" style="margin-bottom: 18px;">
+  <img height="80" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/cyber_id_badge.svg" />
+</div>
 
 I am a multi-dimensional software creator merging **science, creativity, and futurism**.  
 My passion is building digital systems that feel **alive, expressive, and engineered with intent**.
@@ -78,15 +92,13 @@ My goal is to create codebases that feel like **handcrafted machines** — preci
 <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/neon_divider.svg" width="100%" />
 
 <div align="center">
-
 # 🧠 **Core Capabilities & Tech Stack**
 <sub style="opacity:.7;">Cyber-Engineered Panels</sub>
-
 </div>
 
 <br>
 
-<!-- SKILL CARDS (Luxury Tech Panels) -->
+<!-- SKILL CARDS -->
 <div align="center">
 
 <table>
@@ -94,12 +106,12 @@ My goal is to create codebases that feel like **handcrafted machines** — preci
 <td width="330">
 
 <div style="
-  padding: 16px 18px;
+  padding: 18px 20px;
   border-radius: 12px;
   border: 1px solid rgba(255,0,212,0.4);
-  box-shadow: 
-    0 0 16px rgba(0,255,229,0.22),
-    inset 0 0 12px rgba(255,0,212,0.18);
+  box-shadow:
+    0 0 18px rgba(0,255,229,0.22),
+    inset 0 0 14px rgba(255,0,212,0.18);
 ">
 
 <h3 align="center">🎨 Design & Frontend</h3>
@@ -121,12 +133,12 @@ My goal is to create codebases that feel like **handcrafted machines** — preci
 <td width="330">
 
 <div style="
-  padding: 16px 18px;
+  padding: 18px 20px;
   border-radius: 12px;
   border: 1px solid rgba(0,255,229,0.4);
-  box-shadow: 
-    0 0 16px rgba(255,0,212,0.18),
-    inset 0 0 12px rgba(0,255,229,0.18);
+  box-shadow:
+    0 0 18px rgba(255,0,212,0.18),
+    inset 0 0 14px rgba(0,255,229,0.18);
 ">
 
 <h3 align="center">🧬 Machine Learning</h3>
@@ -150,12 +162,12 @@ My goal is to create codebases that feel like **handcrafted machines** — preci
 <td width="330">
 
 <div style="
-  padding: 16px 18px;
+  padding: 18px 20px;
   border-radius: 12px;
   border: 1px solid rgba(255,0,212,0.4);
-  box-shadow: 
-    0 0 16px rgba(0,255,229,0.22),
-    inset 0 0 12px rgba(255,0,212,0.18);
+  box-shadow:
+    0 0 18px rgba(0,255,229,0.22),
+    inset 0 0 14px rgba(255,0,212,0.18);
 ">
 
 <h3 align="center">⚙️ Software Architecture</h3>
@@ -177,12 +189,12 @@ My goal is to create codebases that feel like **handcrafted machines** — preci
 <td width="330">
 
 <div style="
-  padding: 16px 18px;
+  padding: 18px 20px;
   border-radius: 12px;
   border: 1px solid rgba(0,255,229,0.4);
-  box-shadow: 
-    0 0 16px rgba(255,0,212,0.18),
-    inset 0 0 12px rgba(0,255,229,0.18);
+  box-shadow:
+    0 0 18px rgba(255,0,212,0.18),
+    inset 0 0 14px rgba(0,255,229,0.18);
 ">
 
 <h3 align="center">🛠️ Tools & Ecosystem</h3>
@@ -209,9 +221,12 @@ My goal is to create codebases that feel like **handcrafted machines** — preci
 <!-- Futuristic Signature Divider -->
 <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/neon_divider.svg" width="100%" />
 
-<div align="center" style="opacity:.8; margin-top:12px;">
+<!-- Hologram Floating Signature -->
+<div align="center" style="margin-top:14px;">
+  <img height="90" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/holo_signature.svg" />
+</div>
 
-### 🔻 Crafted in Cyberlux Precision  
-**A Z — C M Y K**
-
+<div align="center" style="opacity:.8; margin-top:10px;">
+  ### 🔻 Crafted in Cyberlux Precision  
+  **A Z — C M Y K**
 </div>
