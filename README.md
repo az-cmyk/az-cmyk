@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/banner.svg" width="100%" />
 
 <!-- Animated Neon Accent -->
-<img width="280" src="https://github.com/az-cmyk/az-cmyk/blob/main/neon_line.svg">
+<img width="280" src="https://github.com/az-cmyk/az-cmyk/blob/main/neon_line.svg" width="100%">
 
 <p align="center">
   <i>Where <strong>logic meets artistry</strong> —  
@@ -29,7 +29,6 @@
 
 <div align="center">
 
-## <img height="22" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/glow_star.svg">  
 # 🌠 **About Me**  
 <img height="22" src="https://github.com/az-cmyk/az-cmyk/blob/main/glow_star.svg">
 
