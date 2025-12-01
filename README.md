@@ -1,76 +1,140 @@
-<!-- █████╗ ████████╗     ██████╗███╗   ███╗██╗   ██╗██╗  ██╗
-     ██╔══██╗╚══██╔══╝    ██╔════╝████╗ ████║██║   ██║╚██╗██╔╝
-     ███████║   ██║       ██║     ██╔████╔██║██║   ██║ ╚███╔╝ 
-     ██╔══██║   ██║       ██║     ██║╚██╔╝██║██║   ██║ ██╔██╗ 
-     ██║  ██║   ██║       ╚██████╗██║ ╚═╝ ██║╚██████╔╝██╔╝ ██╗
-     ╚═╝  ╚═╝   ╚═╝        ╚═════╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ 
-
-     👁️  Code. Design. Intelligence. Future. 
--->
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!--                        AZ-CMYK • CYBER LUX                      -->
+<!-- ──────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/banner.svg" width="100%" />
-  
-  <p>
-    I create systems where <strong>logic meets artistry</strong>,  
-    where <strong>data becomes intuition</strong>,  
-    and where <strong>technology feels alive</strong>.
-  </p>
+<img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/banner.svg" width="100%" />
 
-  <p>
-    Every line of code is crafted with intention —  
-    not just to function, but to <strong>resonate</strong>.
-  </p>
+<!-- Animated Neon Accent -->
+<img width="280" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/neon_line.svg">
+
+<p align="center">
+  <i>Where <strong>logic meets artistry</strong> —  
+  where <strong>data becomes intuition</strong> —  
+  where <strong>technology feels alive</strong>.</i>
+</p>
+
+<p align="center">
+  Every line of code is crafted with intention —  
+  not just to function, but to <strong>resonate</strong>.
+</p>
 
 </div>
 
+<!-- Gradient Section Divider -->
+<img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/pulse_divider.svg" width="100%" />
+
 ---
 
-# 🌠 **About Me — The Expanded Version**
+<div align="center">
+
+## <img height="22" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/glow_star.svg">  
+# 🌠 **About Me — Cyber-Luxury Edition**  
+<img height="22" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/glow_star.svg">
+
+</div>
+
 I am a multi-dimensional software creator who merges science, creativity, and futuristic thinking.  
 My passion lies in constructing digital frameworks that feel expressive, aesthetic, and deeply engineered.
 
 I enjoy crafting:
 
-✨ Intelligent systems  
-✨ Adaptive interfaces  
-✨ Machine learning pipelines  
-✨ Beautiful and functional user experiences  
-✨ Clean, scalable, elegant architectures  
+💠 **Intelligent systems**  
+💠 **Adaptive interfaces**  
+💠 **Machine learning pipelines**  
+💠 **Elegant & expressive user experiences**  
+💠 **Clean, scalable, luxurious architectures**
 
-I strive to be the kind of developer who makes codebases feel like **handcrafted machines**—precise, intuitive, and alive.
+I strive to build codebases that feel like **handcrafted machines** — precise, intuitive, and alive.
 
 > **“I don’t follow the future — I help build it.”**
 
 ---
 
-# 🧠 **Core Capabilities & Expanded Tech Stack**
+<!-- Neon Divider -->
+<img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/neon_divider.svg" width="100%" />
 
-## 🎨 **Design & Frontend Engineering**
-- Dart / Flutter (UI Systems, Animation, Component Architecture)  
-- Adaptive Layout Systems  
-- Interactive UI/UX Design Principles  
-- Theme Architectures & Widget Engineering  
-- Visual Prototyping & Wireframing  
+<div align="center">
 
-## 🧬 **Machine Learning & Data Intelligence**
-- Data Preprocessing Pipelines  
-- Neural Network Architecture Design  
-- Classification & Feature Extraction  
-- Dataset Engineering & Augmentation  
-- Accuracy Optimization & Validation Techniques  
-- Model Deployment Foundations  
+# 🧠 **Core Capabilities & Tech Stack**
+</div>
 
-## ⚙️ **Software Engineering & Architecture**
+<br>
+
+<!-- SKILL CARDS (Luxury Tech Panels) -->
+<div align="center">
+
+<table>
+<tr>
+<td width="300">
+
+<h3>🎨 Design & Frontend</h3>
+
+<div align="left">
+
+- Flutter UI & Component Systems  
+- Animation & Motion Architecture  
+- Adaptive Layout Engines  
+- UX Principles & Interaction Flow  
+- Theme Systems & Widget Engineering  
+- Visual Prototyping  
+
+</div>
+</td>
+
+<td width="300">
+
+<h3>🧬 Machine Learning</h3>
+
+<div align="left">
+
+- Data Pipeline Architecture  
+- Neural Network Design  
+- Feature Engineering  
+- Dataset Augmentation  
+- Evaluation & Optimization  
+- Deployment Foundations  
+
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="300">
+
+<h3>⚙️ Software Architecture</h3>
+
+<div align="left">
+
 - Algorithmic Thinking  
-- Large-Scale Code Organization  
-- MVC / MVVM design patterns  
 - Modular Runtime Systems  
-- Clean Code + Documentation First Methodology  
+- Large-Scale Code Structure  
+- MVC / MVVM Patterns  
 - API Design & Integration  
+- Documentation-First Engineering  
 
-## 🛠️ **Tools & Ecosystem**
-```text
-Python • Dart • Flutter • NumPy • Pandas • Matplotlib • TensorFlow (intro)  
-Git • GitHub • VS Code • Jupyter • Command Line Automation  
+</div>
+</td>
+
+<td width="300">
+
+<h3>🛠️ Tools & Ecosystem</h3>
+
+<div align="left">
+
+- Python • Dart • Flutter  
+- NumPy • Pandas • Matplotlib  
+- TensorFlow (Intro)  
+- Git • GitHub • VS Code  
+- Jupyter • CLI Automation  
+
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Futuristic Signature Divider -->
+<img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/pulse_divider.svg" width="100%" />
