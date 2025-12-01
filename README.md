@@ -1,13 +1,3 @@
-I can still add:
-
-🔥 Neon corner brackets
-🔥 Animated circuit border for your whole profile
-🔥 Glowing tech-spec panel
-🔥 Cyberpunk ID badge
-🔥 Hologram-style floating signature
-🔥 Animated particle line
-
-go with this use my current code to edit:
 <!-- ──────────────────────────────────────────────────────────────── -->
 <!--                        AZ-CMYK • CYBER LUX                      -->
 <!--             PREMIUM MAGENTA × TEAL NEON EDITION                -->
