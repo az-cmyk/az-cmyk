@@ -29,8 +29,8 @@
 
 <div align="center">
 
-## <img height="22" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/glow_star.svg">  
-# 🌠 **About Me — Cyber-Luxury Edition**  
+<img height="22" src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/assets/glow_star.svg">  
+# 🌠 **About Me**  
 <img height="22" src="https://github.com/az-cmyk/az-cmyk/blob/main/glow_star.svg">
 
 </div>
