@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/banner.svg" width="100%" alt="Futuristic Banner">
+  <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/banner.svg" width="100%" />
 
   <h1>🚀 <strong>AZ-CMYK</strong></h1>
   <h3><em>Digital Alchemist • Machine Learning Architect • Cyber-Aesthetic Engineer</em></h3>
