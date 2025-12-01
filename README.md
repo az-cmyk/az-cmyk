@@ -1,16 +1,31 @@
-## Hi there 👋
+<!-- ░█▀█░█░█░░░█▀▀░█▀▀░█▀▀░█▄█░█▄█░█░█
+     ░█▀▀░░█░░░░▀▀█░█▀▀░█░░░█░█░█░█░░█░
+     ░▀░░░░▀░░░░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀░▀░░▀░ -->
 
-<!--
-**az-cmyk/az-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/banner.svg" width="100%" alt="Futuristic Banner" />
 
-Here are some ideas to get you started:
+  <h1>🚀 az-cmyk</h1>
+  <h3><em>Digital Alchemist • Machine Intelligence Explorer • Code Architect</em></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    Crafting code that breathes, learns, adapts —  
+    shaping the architecture of tomorrow’s digital worlds.
+  </p>
+</div>
+
+---
+
+## ✨ **About Me**
+I am a multidisciplinary developer who merges design, logic, and machine intelligence to create immersive and efficient digital systems.  
+My work blends **creativity**, **mathematics**, and **technology** — always evolving, always learning.
+
+> *“The future isn't waited for — it's engineered.”*
+
+---
+
+## 🧠 **Tech Stack & Skills**
+```text
+Python • Machine Learning • Data Science  
+Dart / Flutter • UI / UX Engineering  
+REST APIs • Git / GitHub • Algo & Data Structures  
