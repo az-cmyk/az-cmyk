@@ -12,7 +12,6 @@
 
   <img src="https://raw.githubusercontent.com/az-cmyk/az-cmyk/main/banner.svg" width="100%" />
   
-
   <p>
     I create systems where <strong>logic meets artistry</strong>,  
     where <strong>data becomes intuition</strong>,  
